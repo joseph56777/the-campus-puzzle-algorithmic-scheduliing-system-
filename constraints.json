@@ -1,0 +1,400 @@
+{
+  "timeslots": [
+    "Monday 09:00",
+    "Monday 11:00",
+    "Monday 13:00",
+    "Tuesday 09:00",
+    "Tuesday 11:00",
+    "Tuesday 13:00",
+    "Wednesday 09:00",
+    "Wednesday 11:00",
+    "Thursday 09:00",
+    "Thursday 11:00",
+    "Friday 09:00"
+  ],
+  "rooms": [
+    {
+      "id": "R101",
+      "capacity": 24
+    },
+    {
+      "id": "R102",
+      "capacity": 30
+    },
+    {
+      "id": "R103",
+      "capacity": 36
+    },
+    {
+      "id": "R104",
+      "capacity": 42
+    },
+    {
+      "id": "R201",
+      "capacity": 48
+    },
+    {
+      "id": "R202",
+      "capacity": 54
+    },
+    {
+      "id": "R203",
+      "capacity": 60
+    },
+    {
+      "id": "R204",
+      "capacity": 66
+    },
+    {
+      "id": "LAB1",
+      "capacity": 28
+    },
+    {
+      "id": "LAB2",
+      "capacity": 34
+    },
+    {
+      "id": "LAB3",
+      "capacity": 40
+    },
+    {
+      "id": "LAB4",
+      "capacity": 46
+    },
+    {
+      "id": "HALL1",
+      "capacity": 72
+    },
+    {
+      "id": "HALL2",
+      "capacity": 80
+    },
+    {
+      "id": "AUD1",
+      "capacity": 90
+    },
+    {
+      "id": "AUD2",
+      "capacity": 100
+    }
+  ],
+  "classes": [
+    {
+      "id": "CS101",
+      "students": 68,
+      "professor": "Dr. Smith"
+    },
+    {
+      "id": "CS102",
+      "students": 42,
+      "professor": "Dr. Smith"
+    },
+    {
+      "id": "CS201",
+      "students": 55,
+      "professor": "Dr. Adams"
+    },
+    {
+      "id": "CS202",
+      "students": 33,
+      "professor": "Dr. Adams"
+    },
+    {
+      "id": "CS301",
+      "students": 70,
+      "professor": "Dr. Patel"
+    },
+    {
+      "id": "CS302",
+      "students": 48,
+      "professor": "Dr. Patel"
+    },
+    {
+      "id": "AI401",
+      "students": 62,
+      "professor": "Dr. Rao"
+    },
+    {
+      "id": "AI402",
+      "students": 36,
+      "professor": "Dr. Rao"
+    },
+    {
+      "id": "DS301",
+      "students": 58,
+      "professor": "Dr. Khan"
+    },
+    {
+      "id": "DS302",
+      "students": 44,
+      "professor": "Dr. Khan"
+    },
+    {
+      "id": "SE201",
+      "students": 52,
+      "professor": "Dr. Meyer"
+    },
+    {
+      "id": "SE202",
+      "students": 31,
+      "professor": "Dr. Meyer"
+    },
+    {
+      "id": "MATH101",
+      "students": 64,
+      "professor": "Dr. Jones"
+    },
+    {
+      "id": "MATH102",
+      "students": 39,
+      "professor": "Dr. Jones"
+    },
+    {
+      "id": "MATH201",
+      "students": 57,
+      "professor": "Dr. Weber"
+    },
+    {
+      "id": "MATH202",
+      "students": 35,
+      "professor": "Dr. Weber"
+    },
+    {
+      "id": "STAT301",
+      "students": 50,
+      "professor": "Dr. Taylor"
+    },
+    {
+      "id": "STAT302",
+      "students": 27,
+      "professor": "Dr. Taylor"
+    },
+    {
+      "id": "PHY101",
+      "students": 60,
+      "professor": "Dr. Lee"
+    },
+    {
+      "id": "PHY102",
+      "students": 41,
+      "professor": "Dr. Lee"
+    },
+    {
+      "id": "PHY201",
+      "students": 46,
+      "professor": "Dr. Brown"
+    },
+    {
+      "id": "PHY202",
+      "students": 29,
+      "professor": "Dr. Brown"
+    },
+    {
+      "id": "CHEM101",
+      "students": 54,
+      "professor": "Dr. Clark"
+    },
+    {
+      "id": "CHEM102",
+      "students": 32,
+      "professor": "Dr. Clark"
+    },
+    {
+      "id": "BIO101",
+      "students": 49,
+      "professor": "Dr. Davis"
+    },
+    {
+      "id": "BIO102",
+      "students": 25,
+      "professor": "Dr. Davis"
+    },
+    {
+      "id": "BIO201",
+      "students": 45,
+      "professor": "Dr. Wilson"
+    },
+    {
+      "id": "BIO202",
+      "students": 34,
+      "professor": "Dr. Wilson"
+    },
+    {
+      "id": "BUS101",
+      "students": 73,
+      "professor": "Dr. Miller"
+    },
+    {
+      "id": "BUS102",
+      "students": 38,
+      "professor": "Dr. Miller"
+    },
+    {
+      "id": "ECON201",
+      "students": 66,
+      "professor": "Dr. Schmidt"
+    },
+    {
+      "id": "ECON202",
+      "students": 43,
+      "professor": "Dr. Schmidt"
+    },
+    {
+      "id": "ENG101",
+      "students": 37,
+      "professor": "Dr. Thomas"
+    },
+    {
+      "id": "ENG102",
+      "students": 24,
+      "professor": "Dr. Thomas"
+    },
+    {
+      "id": "HIST101",
+      "students": 40,
+      "professor": "Dr. Green"
+    },
+    {
+      "id": "HIST102",
+      "students": 26,
+      "professor": "Dr. Green"
+    },
+    {
+      "id": "LAW101",
+      "students": 51,
+      "professor": "Dr. Evans"
+    },
+    {
+      "id": "LAW102",
+      "students": 30,
+      "professor": "Dr. Evans"
+    }
+  ],
+  "student_groups": [
+    {
+      "group_id": "G-CS-Y1",
+      "class_ids": [
+        "CS101",
+        "MATH101",
+        "PHY101",
+        "ENG101",
+        "SE201"
+      ]
+    },
+    {
+      "group_id": "G-CS-Y2",
+      "class_ids": [
+        "CS201",
+        "CS202",
+        "MATH201",
+        "STAT301",
+        "AI402"
+      ]
+    },
+    {
+      "group_id": "G-CS-Y3",
+      "class_ids": [
+        "CS301",
+        "CS302",
+        "AI401",
+        "DS301",
+        "SE202"
+      ]
+    },
+    {
+      "group_id": "G-AI-ML",
+      "class_ids": [
+        "AI401",
+        "AI402",
+        "DS301",
+        "STAT302",
+        "MATH202"
+      ]
+    },
+    {
+      "group_id": "G-DATA",
+      "class_ids": [
+        "DS301",
+        "DS302",
+        "STAT301",
+        "STAT302",
+        "ECON202"
+      ]
+    },
+    {
+      "group_id": "G-ENG",
+      "class_ids": [
+        "SE201",
+        "SE202",
+        "CS102",
+        "ENG102",
+        "BUS102"
+      ]
+    },
+    {
+      "group_id": "G-SCI-A",
+      "class_ids": [
+        "PHY101",
+        "PHY102",
+        "CHEM101",
+        "BIO101",
+        "MATH102"
+      ]
+    },
+    {
+      "group_id": "G-SCI-B",
+      "class_ids": [
+        "PHY201",
+        "PHY202",
+        "CHEM102",
+        "BIO201",
+        "BIO202"
+      ]
+    },
+    {
+      "group_id": "G-BIO",
+      "class_ids": [
+        "BIO101",
+        "BIO102",
+        "BIO201",
+        "CHEM101",
+        "STAT302"
+      ]
+    },
+    {
+      "group_id": "G-BUS",
+      "class_ids": [
+        "BUS101",
+        "BUS102",
+        "ECON201",
+        "ECON202",
+        "ENG101",
+        "LAW101",
+        "LAW102"
+      ]
+    },
+    {
+      "group_id": "G-HUM",
+      "class_ids": [
+        "HIST101",
+        "HIST102",
+        "ENG101",
+        "ENG102",
+        "BUS102",
+        "LAW101",
+        "LAW102"
+      ]
+    },
+    {
+      "group_id": "G-MIXED",
+      "class_ids": [
+        "CS101",
+        "AI402",
+        "BIO202",
+        "ECON201",
+        "HIST101",
+        "LAW101"
+      ]
+    }
+  ]
+}
